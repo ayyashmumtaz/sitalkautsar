@@ -103,7 +103,7 @@
                 
               </div>
             </div>
-            <img class="img-fluid" src="<?php echo base_url('img/kegiatan/alkalympic.jpg'); ?>" alt="">
+            <img class="img-fluid" src="<?php echo base_url('img/kegiatan/alkalympic.JPG'); ?>" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>Alkalympic</h4>
@@ -131,7 +131,7 @@
                 
               </div>
             </div>
-            <img class="img-fluid" src="<?php echo base_url('img/kegiatan/literasi.jpg'); ?>" alt="">
+            <img class="img-fluid" src="<?php echo base_url('img/kegiatan/literasi.JPG'); ?>" alt="">
           </a>
           <div class="portfolio-caption">
             <h4>Literasi Sekolah</h4>
