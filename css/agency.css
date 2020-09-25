@@ -176,7 +176,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("<?= base_url('img/home/1.jpg');?>");
+  background-image: url("https://sitalkautsar.sch.id/home/img/home/1.JPG");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
