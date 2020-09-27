@@ -5,7 +5,10 @@
   
   <header class="masthead">
 
- <video autoplay muted loop id="myVideo">
+ <video style="
+  max-width: 100%;
+  height: auto;
+" autoplay muted loop id="myVideo">
   <source src="<?= base_url('img/video/alka.mp4');?>" type="video/mp4">
 </video>
    
