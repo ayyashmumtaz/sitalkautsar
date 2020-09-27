@@ -2,24 +2,21 @@
 <html lang="en">
 <link rel="icon" href="<?php echo base_url('img/icon.png'); ?>">
   <!-- Header -->
+  
   <header class="masthead">
 
-    <div class="container">
+ <video autoplay muted loop id="myVideo">
+  <source src="<?= base_url('img/video/alka.mp4');?>" type="video/mp4">
+</video>
+   
        
 
      
-      <div class="intro-text">
-      
-
-        <div class="intro-lead-in">Selamat Datang di Official Website Alkautsar !</div>
-        
-        <div class="intro-heading text-uppercase">Senang Bertemu denganmu!</div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Lihat lebih banyak!</a>
-      </div>
-        
-    </div>
+  
+   
   </header>
-
+  
+  
   <!-- Services -->
   <section class="page-section" id="services">
     <div class="container">
